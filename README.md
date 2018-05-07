@@ -1,2 +1,2 @@
 # git-github
-This is for Tut purpose.
+This is for Tut purpose changes.
